@@ -1,0 +1,12 @@
+#services img {
+  height: 150px;
+}
+
+body {
+  font-family: "Poppins", sans-serif !important;
+  background-color: white !important;
+}
+
+.disabled-cursor {
+  cursor: not-allowed !important;
+}

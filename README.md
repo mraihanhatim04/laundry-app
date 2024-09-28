@@ -1,5 +1,5 @@
 # React + Vite
 
-# pnpm install
+# nnpm install
 
-# pnpm run dev
+# npm run dev
